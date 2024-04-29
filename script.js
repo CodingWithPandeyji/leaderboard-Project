@@ -1,19 +1,19 @@
 var scores=[
     {
-            "frstName":"kishan",
-            "lastName":"jumnani",
-            "country":"india",
+            "frstName":"Mohit",
+            "lastName":"Pandey",
+            "country":"India",
             "score":90
     },
     {
-        "frstName":"xys",
-        "lastName":"jumnani",
+        "frstName":"Ajay",
+        "lastName":"Rathod",
         "country":"india",
         "score":100
 },
 {
-    "frstName":"skjdkjsd",
-    "lastName":"jumnani",
+    "frstName":"Mukesh",
+    "lastName":"Ambani",
     "country":"india",
     "score":120
 },
